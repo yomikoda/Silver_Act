@@ -112,7 +112,7 @@ header nav>ul>li>a::after {
 }
 
 header nav>ul>li:hover>a:after {
-    opacity: 1;
+    opacity: 0.5;
     transition: all ease 1s;
 }
 
@@ -338,3 +338,8 @@ footer>.footer-content {
     background-color:#4ecdc4;
 }
 
+
+h1{
+    color:white;
+    font-size: 35px;
+}
