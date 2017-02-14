@@ -17,6 +17,15 @@
 }
 
 
+@font-face {
+    font-family: 'Lobster';
+    src: url('../fonts/Lobster.eot');
+    src: local('☺'), url('../fonts/Lobster.woff') format('woff'), url('../fonts/Lobster.ttf') format('truetype'), url('../fonts/Lobster.svg') format('svg');
+    font-weight: normal;
+    font-style: normal;
+}
+
+
 /**END FONTS **/
 
 
